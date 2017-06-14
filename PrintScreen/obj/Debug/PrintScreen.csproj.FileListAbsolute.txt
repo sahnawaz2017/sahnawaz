@@ -1,0 +1,8 @@
+D:\C# coding\PrintScreen\bin\Debug\PrintScreen.exe
+D:\C# coding\PrintScreen\bin\Debug\PrintScreen.pdb
+D:\C# coding\PrintScreen\obj\Debug\ResolveAssemblyReference.cache
+D:\C# coding\PrintScreen\obj\Debug\PrintScreen.Form1.resources
+D:\C# coding\PrintScreen\obj\Debug\PrintScreen.Properties.Resources.resources
+D:\C# coding\PrintScreen\obj\Debug\PrintScreen.csproj.GenerateResource.Cache
+D:\C# coding\PrintScreen\obj\Debug\PrintScreen.exe
+D:\C# coding\PrintScreen\obj\Debug\PrintScreen.pdb

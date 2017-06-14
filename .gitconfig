@@ -1,0 +1,9 @@
+[uer]
+	name = Sahnawaz Khan
+	email = sahnawaz@hotmail.com
+[color]
+	ui = auto
+[merge]
+	conflictstyle = diff3
+[core]
+	editor = C:/Program Files/Sublime Text 2/sublime_text.exe' -n -w
