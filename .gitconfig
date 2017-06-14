@@ -7,3 +7,6 @@
 	conflictstyle = diff3
 [core]
 	editor = C:/Program Files/Sublime Text 2/sublime_text.exe' -n -w
+[user]
+	Name = Sahnawaz Khan
+	email = Sahnawaz@hotmail.com
